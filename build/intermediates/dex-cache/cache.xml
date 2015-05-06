@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\chnt\AndroidStudioProjects\AESTextSMS\aes\build\intermediates\pre-dexed\debug\support-v4-19.0.0-0833b290331067bf347e927815c0e47996af9a37.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.0\support-v4-19.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa"/>
+    <item
+        dex="C:\Users\chnt\AndroidStudioProjects\AESTextSMS\aes\build\intermediates\pre-dexed\debug\classes-cb8ce83fbb866272f0c253c8f66a3072a0d4bdd6.jar"
+        jar="C:\Users\chnt\AndroidStudioProjects\AESTextSMS\aes\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="eb69b5c2e53e59d82f7439f3217f46f9d98f0c89"/>
+
+</pre-dex-items>
